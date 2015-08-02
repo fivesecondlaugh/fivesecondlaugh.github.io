@@ -6,4 +6,4 @@ summary:    Pixyll is a simple, beautiful theme for Jekyll that emphasizes conte
 categories: jekyll pixyll
 ---
 
-<img width="100%" heigh="auto" src="https://raw.githubusercontent.com/fivesecondlaugh/fivesecondlaugh.github.io/master/images/puppy.png" />
+<img style="text-align:center" width="100%" heigh="auto" src="https://raw.githubusercontent.com/fivesecondlaugh/fivesecondlaugh.github.io/master/images/puppy.png" />
