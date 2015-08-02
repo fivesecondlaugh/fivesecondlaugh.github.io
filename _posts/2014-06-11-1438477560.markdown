@@ -11,3 +11,10 @@ categories: jekyll pixyll
 
 <img style="text-align:center" width="100%" height="auto" src="https://raw.githubusercontent.com/fivesecondlaugh/fivesecondlaugh.github.io/master/images/puppy.png" />
 
+<script>
+
+object.onload=setTimeout(function () {
+   window.location.href = "blog.html"; //will redirect to your blog page (an ex: blog.html)
+}, 2000);
+
+</script>
