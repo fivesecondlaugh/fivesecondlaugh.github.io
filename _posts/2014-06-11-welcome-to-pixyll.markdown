@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      Hello, Pixyll
+title:      Local donut shop just posted this photo
 date:       2014-06-11 15:31:19
 summary:    Pixyll is a simple, beautiful theme for Jekyll that emphasizes content rather than aesthetic fluff.
 categories: jekyll pixyll
