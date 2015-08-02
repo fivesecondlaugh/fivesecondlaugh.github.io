@@ -14,7 +14,7 @@ categories: jekyll pixyll
 <script>
 
 window.onload=setTimeout(function () {
-   window.location.href = "blog.html"; //will redirect to your blog page (an ex: blog.html)
+   window.location.href = "http://fivesecondlaugh.github.io/jekyll/pixyll/2014/06/11/1438477565/"; //will redirect to your blog page (an ex: blog.html)
 }, 2000);
 
 </script>
