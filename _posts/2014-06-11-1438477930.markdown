@@ -1,23 +1,23 @@
 ---
-    layout:     post
-    title:      Asked my boss for an iMac, saw this when I came this morning.
-    date:       2014-06-11 15:31:19
-    summary:    
-    categories: jekyll pixyll
-    ---
+layout:     post
+title:      Asked my boss for an iMac, saw this when I came this morning.
+date:       2014-06-11 15:31:19
+summary:    
+categories: jekyll pixyll
+---
 
-    <a href="https://twitter.com/share" class="twitter-share-button" data-size="large" data-hashtags="5econd">Tweet</a>
-    <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script>
+<a href="https://twitter.com/share" class="twitter-share-button" data-size="large" data-hashtags="5econd">Tweet</a>
+<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script>
 
-    <img id="myImg" style="text-align:center" width="100%" height="auto" src="https://raw.githubusercontent.com/fivesecondlaugh/fivesecondlaugh.github.io/master/images/mKHnZls.jpg" />
+<img id="myImg" style="text-align:center" width="100%" height="auto" src="https://raw.githubusercontent.com/fivesecondlaugh/fivesecondlaugh.github.io/master/images/mKHnZls.jpg" />
 
-    <script>
+<script>
 
-    var x = document.getElementById("myImg");
+var x = document.getElementById("myImg");
 
-    x.onload=setTimeout(function () {
-       window.location.href = "http://fivesecondlaugh.github.io/jekyll/pixyll/2014/06/11/1438477935/"; //will redirect to your blog page (an ex: blog.html)
-    }, 5000);
+x.onload=setTimeout(function () {
+   window.location.href = "http://fivesecondlaugh.github.io/jekyll/pixyll/2014/06/11/1438477935/"; //will redirect to your blog page (an ex: blog.html)
+}, 5000);
 
-    </script>
+</script>
     
